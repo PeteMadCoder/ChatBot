@@ -12,5 +12,5 @@ ENV/
 .venv*/
 
 #specific python files
-knowlege/desenhame.py
-knowlege/rude.py
+app/knowlege/desenhame.py
+app/knowlege/rude.py
